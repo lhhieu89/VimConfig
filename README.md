@@ -1,11 +1,10 @@
-vim
+Vim Config
 ===
 
-## Tutorial to use vim
- - Download zip file
- - Delete old folder ~/.vim  :  rm -r ~/.vim
- - extract and copy folder **vim-master** to ~/.vim
- - copy file ~/.vim/.vimrc to ~/.vimrc
+## Install
+ - `rm -rf ~/.vim`
+ - `git clone git@github.com:lhhieu89/VimConfig.git ~/.vim`
+ - `mv ~/.vim/.vimrc ~/.vimrc`
 
 ### if not installed vim
 ```
